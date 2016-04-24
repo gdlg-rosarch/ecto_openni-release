@@ -1,0 +1,15 @@
+ros-kinetic-ecto-openni (0.4.0-0xenial) xenial; urgency=high
+
+  * remove stack.xml now that Fuerte is dropped
+  * use floats for internals
+  * remove Fuerte support
+  * Merge pull request #6 <https://github.com/plasmodic/ecto_openni/issues/6> from zittix/patch-1
+    Fixes OpenNI detection under Mac OS X when installed with Homebrew
+  * Fixed OpenNI detection under Mac OS X when installed with Homebrew
+  * update url
+  * update the maintainer's email address
+  * Contributors: Mathieu Monney, Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Thu, 03 Apr 2014 22:00:00 -0000
+
+
